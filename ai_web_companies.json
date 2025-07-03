@@ -1,0 +1,356 @@
+{
+    "personal_portfolio": {
+        "name": "Nuzul Aqmal",
+        "specialization": "AI-Driven Web Development",
+        "projects": [
+            {
+                "name": "Personal Portfolio Website",
+                "description": "Modern portfolio website with AI-powered animations and interactions",
+                "technologies": ["HTML5", "CSS3", "JavaScript", "Canvas API"],
+                "features": [
+                    "Network particle animations",
+                    "Glass morphism design",
+                    "Interactive elements",
+                    "Responsive layout"
+                ],
+                "year": 2024
+            }
+        ],
+        "skills": [
+            "Web Development",
+            "System Administration",
+            "AI Integration",
+            "UI/UX Design"
+        ]
+    },
+    "ai_web_companies": [
+        {
+            "name": "Webflow",
+            "logo": "https://assets-global.website-files.com/5e1c4fb5db4d5243c0a460e3/5e1c4fb5db4d52a098a46110_webflow-logo-white.svg",
+            "website": "https://webflow.com",
+            "description": "Professional no-code website builder with AI features",
+            "ai_features": [
+                "AI-powered layouts",
+                "Content generation",
+                "Design suggestions",
+                "SEO optimization"
+            ],
+            "pricing": {
+                "starter": "14 USD/month",
+                "professional": "39 USD/month",
+                "enterprise": "Custom"
+            },
+            "best_for": "Professional designers and agencies"
+        },
+        {
+            "name": "10Web",
+            "logo": "https://10web.io/wp-content/uploads/2021/10/10web-logo-white.svg",
+            "website": "https://10web.io",
+            "description": "AI-powered WordPress website builder and hosting",
+            "ai_features": [
+                "AI website builder",
+                "Automated WordPress optimization",
+                "AI-powered hosting",
+                "Speed optimization"
+            ],
+            "pricing": {
+                "personal": "10 USD/month",
+                "premium": "25 USD/month",
+                "agency": "60 USD/month"
+            },
+            "best_for": "WordPress users and agencies"
+        },
+        {
+            "name": "Framer",
+            "logo": "https://framerusercontent.com/images/nXLdc1LsU15dk6AODEPMgpeCJ0.png",
+            "website": "https://www.framer.com",
+            "description": "AI-powered website and web app builder",
+            "ai_features": [
+                "AI site generation",
+                "Smart components",
+                "Magic layout",
+                "Content generation"
+            ],
+            "pricing": {
+                "basic": "0 USD/month",
+                "pro": "20 USD/month",
+                "enterprise": "Custom"
+            },
+            "best_for": "Designers and startups"
+        },
+        {
+            "name": "Dora",
+            "logo": "https://www.dora.run/logo.svg",
+            "website": "https://www.dora.run",
+            "description": "AI website builder focusing on personal and business sites",
+            "ai_features": [
+                "AI design generation",
+                "Content writing",
+                "Image generation",
+                "SEO optimization"
+            ],
+            "pricing": {
+                "free": "0 USD/month",
+                "pro": "25 USD/month",
+                "business": "49 USD/month"
+            },
+            "best_for": "Small businesses and individuals"
+        },
+        {
+            "name": "Builder.io",
+            "logo": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F79c8b61740bc41d5ae722c000ddb5915",
+            "website": "https://www.builder.io",
+            "description": "Visual CMS with AI capabilities",
+            "ai_features": [
+                "AI-powered page building",
+                "Smart content management",
+                "Visual editing",
+                "Performance optimization"
+            ],
+            "pricing": {
+                "free": "0 USD/month",
+                "team": "99 USD/month",
+                "enterprise": "Custom"
+            },
+            "best_for": "Enterprise and e-commerce"
+        },
+        {
+            "name": "Wix ADI",
+            "logo": "https://static.wixstatic.com/media/767ac9_10f2f3d6f65d4b91b5630f3641fc125e~mv2.png",
+            "website": "https://www.wix.com/adi",
+            "description": "AI-powered website builder with advanced design intelligence",
+            "ai_features": [
+                "AI Design Intelligence",
+                "Smart layout suggestions",
+                "Business logic integration",
+                "Dynamic content adaptation"
+            ],
+            "pricing": {
+                "combo": "16 USD/month",
+                "unlimited": "22 USD/month",
+                "business": "27 USD/month"
+            },
+            "best_for": "Small businesses and entrepreneurs"
+        },
+        {
+            "name": "Zyro",
+            "logo": "https://zyro.com/_nuxt/img/zyro-logo.png",
+            "website": "https://zyro.com",
+            "description": "AI-powered website builder with integrated business tools",
+            "ai_features": [
+                "AI Writer",
+                "AI Business Name Generator",
+                "AI Heatmap",
+                "Logo Generator"
+            ],
+            "pricing": {
+                "basic": "11.99 USD/month",
+                "unleashed": "14.99 USD/month",
+                "ecommerce": "19.99 USD/month"
+            },
+            "best_for": "Startups and small online stores"
+        },
+        {
+            "name": "Hostinger AI Website Builder",
+            "logo": "https://assets.hostinger.com/images/logo-white-5a33bd9366.svg",
+            "website": "https://www.hostinger.com/ai-website-builder",
+            "description": "AI-powered website builder with hosting integration",
+            "ai_features": [
+                "AI Content Generator",
+                "Smart Design Suggestions",
+                "SEO Optimization",
+                "Mobile Optimization"
+            ],
+            "pricing": {
+                "starter": "7.99 USD/month",
+                "professional": "11.99 USD/month",
+                "enterprise": "21.99 USD/month"
+            },
+            "best_for": "Beginners and small businesses"
+        },
+        {
+            "name": "Universe",
+            "logo": "https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/619b06c2c8e49f32b75b89dc_universe-logo.svg",
+            "website": "https://onuniverse.com",
+            "description": "Mobile-first AI website builder",
+            "ai_features": [
+                "AI Design Assistant",
+                "Smart Templates",
+                "Mobile-First Generation",
+                "Dynamic Layouts"
+            ],
+            "pricing": {
+                "free": "0 USD/month",
+                "pro": "12 USD/month",
+                "premium": "24 USD/month"
+            },
+            "best_for": "Mobile-first creators and influencers"
+        },
+        {
+            "name": "Appypie Website",
+            "logo": "https://appypie.com/images/appypie-logo-white.svg",
+            "website": "https://www.appypie.com/website-builder",
+            "description": "No-code website builder with AI capabilities",
+            "ai_features": [
+                "AI Website Generator",
+                "Smart Forms",
+                "Automated Workflows",
+                "Intelligent Analytics"
+            ],
+            "pricing": {
+                "basic": "12 USD/month",
+                "professional": "24 USD/month",
+                "enterprise": "48 USD/month"
+            },
+            "best_for": "Business owners and marketers"
+        },
+        {
+            "name": "Jimdo",
+            "logo": "https://a.storyblok.com/f/47007/251x62/a27bc392ce/jimdo-logo-white.svg",
+            "website": "https://www.jimdo.com",
+            "description": "AI-powered website creator for small businesses",
+            "ai_features": [
+                "Dolphin AI Builder",
+                "Smart Content Creation",
+                "Business Logic Integration",
+                "SEO Assistant"
+            ],
+            "pricing": {
+                "start": "9 USD/month",
+                "grow": "15 USD/month",
+                "unlimited": "39 USD/month"
+            },
+            "best_for": "Small businesses and freelancers"
+        },
+        {
+            "name": "Bookmark",
+            "logo": "https://www.bookmark.com/assets/images/logo-white.svg",
+            "website": "https://www.bookmark.com",
+            "description": "AI-powered website builder for professionals",
+            "ai_features": [
+                "AiDA (AI Design Assistant)",
+                "Smart Color Matching",
+                "Content Suggestions",
+                "Layout Optimization"
+            ],
+            "pricing": {
+                "professional": "15 USD/month",
+                "business": "25 USD/month",
+                "enterprise": "35 USD/month"
+            },
+            "best_for": "Professional service providers"
+        },
+        {
+            "name": "Strikingly",
+            "logo": "https://uploads-ssl.webflow.com/5f2c87246b17fcf662282594/5f2c87246b17fc3f6c282656_strikingly-logo-white.svg",
+            "website": "https://www.strikingly.com",
+            "description": "Simple AI website builder with powerful features",
+            "ai_features": [
+                "Smart Templates",
+                "AI Content Generator",
+                "Audience Insights",
+                "Responsive Design AI"
+            ],
+            "pricing": {
+                "limited": "8 USD/month",
+                "pro": "16 USD/month",
+                "vip": "49 USD/month"
+            },
+            "best_for": "Creators and small teams"
+        },
+        {
+            "name": "Unbounce",
+            "logo": "https://unbounce.com/wp-content/themes/unbounce2019/assets/img/unbounce-logo-white.svg",
+            "website": "https://unbounce.com",
+            "description": "AI-powered landing page and website builder",
+            "ai_features": [
+                "Smart Builder",
+                "Smart Traffic",
+                "Smart Copy",
+                "Conversion Intelligence"
+            ],
+            "pricing": {
+                "launch": "90 USD/month",
+                "optimize": "135 USD/month",
+                "accelerate": "225 USD/month"
+            },
+            "best_for": "Marketing teams and agencies"
+        },
+        {
+            "name": "Versoly",
+            "logo": "https://versoly.com/versoly-logo-light.svg",
+            "website": "https://versoly.com",
+            "description": "AI-powered SaaS website builder",
+            "ai_features": [
+                "AI Content Generator",
+                "Smart Components",
+                "SEO Optimization",
+                "Conversion Optimization"
+            ],
+            "pricing": {
+                "starter": "29 USD/month",
+                "growth": "99 USD/month",
+                "business": "199 USD/month"
+            },
+            "best_for": "SaaS companies and startups"
+        }
+    ],
+    "ai_tools_categories": {
+        "design": [
+            "Midjourney",
+            "DALL-E",
+            "Canva AI"
+        ],
+        "content": [
+            "ChatGPT",
+            "Copy.ai",
+            "Jasper"
+        ],
+        "development": [
+            "GitHub Copilot",
+            "Tabnine",
+            "Amazon CodeWhisperer"
+        ],
+        "analytics": [
+            "Google Analytics AI",
+            "Mixpanel",
+            "Amplitude"
+        ]
+    },
+    "industry_trends": {
+        "current_year": 2024,
+        "growing_technologies": [
+            "AI-powered design systems",
+            "No-code AI integration",
+            "Voice user interfaces",
+            "Automated testing",
+            "Personalization engines"
+        ],
+        "popular_frameworks": [
+            "Next.js",
+            "React",
+            "Vue.js",
+            "Svelte",
+            "Angular"
+        ],
+        "emerging_tools": [
+            "AI code review",
+            "Automated deployment",
+            "Smart debugging tools",
+            "AI-powered analytics"
+        ]
+    },
+    "metadata": {
+        "last_updated": "2024",
+        "version": "1.0",
+        "author": "Nuzul Aqmal",
+        "contact": {
+            "email": "your.email@example.com",
+            "website": "https://your-portfolio-url.com",
+            "social": {
+                "github": "your-github-username",
+                "linkedin": "your-linkedin-profile"
+            }
+        }
+    }
+} 
